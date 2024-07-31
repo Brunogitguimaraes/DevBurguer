@@ -27,5 +27,4 @@
 - JavaScript: Manipulação do DOM, funções interativas e lógica de exibição de produtos.
 </p>
 
-![image](https://github.com/user-attachments/assets/9539f0f9-68f1-43d3-aad9-490383a74822)
-
+<img src="./assets/Imagem README.png" alt="img-projeto">
