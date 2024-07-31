@@ -21,6 +21,8 @@
 <h2>🛠 Tecnologias Utilizadas</h2>
 <p>
 - HTML: Estrutura do conteúdo.
+  <br>
 - CSS: Estilização da página e layout responsivo.
+  <br>
 - JavaScript: Manipulação do DOM, funções interativas e lógica de exibição de produtos.
 </p>
