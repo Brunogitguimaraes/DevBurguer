@@ -26,3 +26,5 @@
   <br>
 - JavaScript: Manipulação do DOM, funções interativas e lógica de exibição de produtos.
 </p>
+
+<img src="https://github.com/Brunogitguimaraes/DevBurguer/blob/main/assets/Imagem%20README.png?raw=true" alt="projeto-img"
