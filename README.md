@@ -28,3 +28,5 @@
 </p>
 
 <img src="./assets/Imagem README.png" alt="img-projeto">
+
+<img src="./assets/img projeto responsivo" alt="img-tela-responsive"
