@@ -29,4 +29,5 @@
 
 <img src="./assets/Imagem README.png" alt="img-projeto">
 
-<img src="./assets/img projeto responsivo" alt="img-tela-responsive"
+![image](https://github.com/user-attachments/assets/861fac31-efc7-45de-9145-0d24670a3c09)
+
