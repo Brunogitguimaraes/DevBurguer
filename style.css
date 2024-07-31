@@ -11,8 +11,22 @@ body {
   background-color: black;
 }
 
+video {
+  transition: visibility 1s linear;
+  min-height: 100%;
+  min-width: 100%;
+  width: 100vh;
+  z-index: -2;
+  position: fixed;
+  background: linear-gradient(
+    109deg,
+    rgba(10, 12, 16, 0.99) 15%,
+    rgba(10, 12, 16, 0.7) 50%,
+    rgba(10, 12, 16, 0.99) 85%
+  );
+}
+
 .container-buttons {
-  margin: 30px 0;
   display: flex;
   justify-content: center;
   align-items: center;
