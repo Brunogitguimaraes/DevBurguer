@@ -28,6 +28,8 @@
 </p>
 
 <img src="./assets/Imagem README.png" alt="img-projeto">
+<br>
 <h1>Imagem Responsiva</h1>
+<img src="https://github.com/Brunogitguimaraes/DevBurguer/blob/main/assets/img_projeto_responsivo.png?raw=true" />
 
 
