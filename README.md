@@ -28,3 +28,9 @@
 </p>
 
 <img src="./assets/Imagem README.png" alt="img-projeto">
+<<<<<<< HEAD
+=======
+
+![image](https://github.com/user-attachments/assets/861fac31-efc7-45de-9145-0d24670a3c09)
+
+>>>>>>> 2551658fabb529756d2df3bc42ebf3d9196f5f9a
