@@ -10,8 +10,11 @@
 
 <p> 
 - Mostrar Todos os Produtos: Exibe todos os produtos disponíveis.
+  <br>
 - Mapear Produtos com Desconto: Aplica um desconto de 10% em todos os produtos e exibe os resultados.
+  <br>
 - Somar Todos os Produtos: Calcula e exibe o valor total de todos os produtos.
+  <br>
 - Filtrar Produtos Veganos: Exibe apenas os produtos que são veganos.
 </p>
 
